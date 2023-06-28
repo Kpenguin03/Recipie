@@ -1,6 +1,6 @@
 # Overview of Recipe Book
 
-{The purpose for writing this software is to practice writing fucntions in a new language, namely Kotlin.}
+{The purpose for writing this software is to practice writing fucntions in a new language, namely Kotlin. To open click src/main/kotlin then choose Main.kt}
 
 
 [Software Demo Video](https://youtu.be/PhUmmWL3esk)
